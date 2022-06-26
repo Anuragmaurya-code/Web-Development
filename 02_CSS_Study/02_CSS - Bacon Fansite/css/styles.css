@@ -1,0 +1,32 @@
+
+/* tag Selector*/
+
+h1{
+  color : Red;
+  font-size: 100px;
+}
+
+ /* class Selector*/
+
+ .text{
+   color:blue;
+ }
+.bacon:hover{
+  background-color: green;
+}
+
+.broccoli:hover{
+  background-color: Red;
+}
+
+/*  Id Selectors */
+
+#pass1{
+  font-size:40px;
+  color:Green;
+}
+
+#pass2:hover{
+  font-size:40px;
+  color:pink;
+}

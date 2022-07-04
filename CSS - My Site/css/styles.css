@@ -1,3 +1,11 @@
+a{
+font-family: 'PT Serif', serif;
+padding: 10px 20px;
+text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
 body {
   color: #40514E;
   margin: 0;
@@ -8,8 +16,9 @@ hr {
   height: 0;
   border-style: dotted none none none;
   width: 5%;
-  border-width: 10px;
+  border-width: 6px;
   color: #EAF6F6;
+  margin: 100px auto;
 }
 
 .cloud1 {
@@ -22,7 +31,9 @@ hr {
   position: absolute;
   left: 450px;
 }
-
+.greeting{
+  margin-bottom: 0;
+}
 h1 {
   display: inline-block;
   color: #66BFBF;
@@ -43,7 +54,7 @@ h3 {
   color: #11999E;
 }
 .middle-container{
-  margin:100px 0;
+  margin:50px 0;
 }
 .bottom-container {
   background-color: #66BFBF;
@@ -59,7 +70,7 @@ h3 {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'PT Serif', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -82,15 +93,16 @@ h3 {
 
 .copyright {
   color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
   margin-bottom: 0;
-  padding-top: 10px;
 }
 
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+
 }
 
 .html {
@@ -113,6 +125,8 @@ h3 {
 
 .desc {
   color: #40514E;
+  width: 40%;
+  margin:30px auto 60px;
 }
 
 .passage-text {
@@ -120,11 +134,16 @@ h3 {
 }
 
 .bottom-container {
+
   color: #66BFBF;
   padding-top: 50px;
-  padding-bottom: 50px;
 }
+
 
 .footer-link {
   color: #11999E;
+}
+
+p{
+  line-height: 2;
 }

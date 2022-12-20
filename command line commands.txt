@@ -1,0 +1,74 @@
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ ls
+ -1.14-windows.xml       'Cisco Packet Tracer 7.3.0'/   Documents/              'Local Settings'@   ntuser.dat.LOG2                                                                                Pictures/          SendTo@
+'3D Objects'/             Color-Detection-project/      Downloads/               Music/             NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        PrintHood@         source/
+ anaconda3/               Contacts/                     Favorites/              'My Documents'@     NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   PycharmProjects/  'Start Menu'@    
+ AndroidStudioProjects/   Cookies@                      IdeaProjects/            NetHood@           NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   Recent@            Templates@      
+ AppData/                 DataGripProjects/             IntelGraphicsProfiles/   NTUSER.DAT         ntuser.ini                                                                                    'Saved Games'/      Videos/
+'Application Data'@       Desktop/                      Links/                   ntuser.dat.LOG1    OneDrive/                                                                                      Searches/         'VirtualBox VMs'/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ cd Desktop/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ ls
+'anurag whatsapp.lnk'*  'command line'/   desktop.ini   DSA.lnk*   FocusTo-Do.lnk*   Hyper.lnk*  'isha whatsapp.lnk'*  'Programming (E) - Shortcut.lnk'*   wifi.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ cd command\ line/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ cd ~
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ cd Desktop/command\ line/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ cd ..
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ cd command\ line/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ mkdir practicecommand
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ touch practicecommandtextfile.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ start practicecommandtextfile.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ start atom  practicecommandtextfile.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ rm  practicecommandtextfile.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ touch f1.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ touch f2.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ touch f3.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ touch f4.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ rm *
+rm: cannot remove 'practicecommand': Is a directory
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ pwd
+/c/Users/anura/Desktop/command line
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ rm -r practicecommand
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/command line
+$ cd ..
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ rm -r command\ line

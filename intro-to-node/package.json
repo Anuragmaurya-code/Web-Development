@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  },
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "intoduction to node js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag",
+  "license": "ISC"
+}

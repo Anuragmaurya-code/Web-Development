@@ -1,0 +1,115 @@
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ node --version
+v18.12.1
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ pwd
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~
+$ cd Desktop/
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ ls
+'anurag whatsapp.lnk'*   desktop.ini   DSA.lnk*   FocusTo-Do.lnk*   Hyper.lnk*  'isha whatsapp.lnk'*  'Programming (E) - Shortcut.lnk'*   wifi.txt                                                                                   (E) - Shortcut.lnk'*   wifi.txt
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ mkdir into-to-node
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ rm -r into-to-node
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop
+$ mkdir intro-to-node
+
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ npm install supervillains
+
+added 3 packages, and audited 4 packages in 6s
+
+found 0 vulnerabilities
+npm notice 
+npm notice New major version of npm available! 8.19.2 -> 9.2.0      
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.2.0
+npm notice Run npm install -g npm@9.2.0 to update!
+npm notice 
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (intro-to-node)
+version: (1.0.0)
+description: intoduction to node js
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to C:\Users\anura\Desktop\intro-to-node\package.json:
+
+{
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  },
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "intoduction to node js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Deep Six
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Tarantula
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Double Down
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Vanisher
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Brainiac
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Stegron
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Doctor Poison
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$ node index.js
+Cutthroat
+
+anurag@android-d4c538d22a6eop5q MINGW64 ~/Desktop/intro-to-node
+$

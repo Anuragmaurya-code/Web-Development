@@ -1,0 +1,6 @@
+installation important
+
+1. initalialize npm
+2. install express
+3. install supervisor
+4. install use full module or package of npm

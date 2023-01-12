@@ -1,0 +1,10 @@
+<%- include("partials/header"); -%>
+<h1><%=pageHeading%></h1>
+<p><%=pageContent%></p>
+<%postArray.forEach(element => { %>
+<h1><%=element.title %></h1>
+<p><%=element.data.substring(0,100) + " ..." %>
+  <a href="/posts/<%=element.title%>">Read More</a>
+</p>
+<% });%>
+<%- include("partials/footer"); -%>
